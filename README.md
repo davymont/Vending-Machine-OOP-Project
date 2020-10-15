@@ -1,10 +1,10 @@
 # README
 
-* As a personal project I am currently learning JavaFX to add a GUI to move this out of the console and make it a bit more interesting *
-
-A console based vending machine application, offering 5 different items and a secret, password protected service mode to add more items/change prices/restock etc.
+A console based vending machine application, offering 5 different items and a secret, password protected service mode to add more items/change prices/restock/add coins etc.
 
 My first OOP project, using enums, interfaces, multiple classes, inheritance, encapsulation etc.
+
+* As a personal project I am currently learning JavaFX to add a GUI to move this out of the console and make it a bit more interesting 
 
 Instructions for use: 
 
